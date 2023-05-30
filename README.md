@@ -12,7 +12,7 @@ For details on usage please refer to [PGFinder : Usage](https://mesnage-org.gith
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://mesnage-org.github.io/pgfinder-jupyterlite**
+➡️ [**mesnage-org.github.io/pgfinder-jupyterlite**](https://mesnage-org.github.io/pgfinder-jupyterlite/lab?path=pgfinder_interactive.ipynb)
 
 ## Requirements
 
